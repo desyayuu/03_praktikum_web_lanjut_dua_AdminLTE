@@ -14,6 +14,15 @@
                 Asal Daerah: {!! $asal !!} <br>
 
             </div>
+
+            <div class="card-body">
+                Nama: {!! $nama2 !!} <br>
+                NIM: {!! $nim2 !!} <br>
+                Kelas: {!! $kelas2 !!} <br>
+                Jurusan: {!! $jurusan2 !!} <br>
+                Asal Daerah: {!! $asal2 !!} <br>
+
+            </div>
         </div>
     </div>
 </section>
