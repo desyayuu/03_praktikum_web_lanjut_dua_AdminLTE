@@ -13,6 +13,23 @@
                 Jurusan: {!! $jurusan !!} <br>
                 Asal Daerah: {!! $asal !!} <br>
             </div>
+
+            <div class="card-body">
+                Nama: {!! $nama !!} <br>
+                NIM: {!! $nim !!} <br>
+                Kelas: {!! $kelas !!} <br>
+                Jurusan: {!! $jurusan !!} <br>
+                Asal Daerah: {!! $asal !!} <br>
+            </div>
+
+            <div class="card-body">
+                Nama: {!! $nama !!} <br>
+                NIM: {!! $nim !!} <br>
+                Kelas: {!! $kelas !!} <br>
+                Jurusan: {!! $jurusan !!} <br>
+                Asal Daerah: {!! $asal !!} <br>
+            </div>
+            
         </div>
     </div>
 </section>
