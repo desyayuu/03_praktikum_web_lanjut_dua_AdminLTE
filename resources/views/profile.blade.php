@@ -1,4 +1,5 @@
 @extends('layouts.template')
+
 @section('content')
 <section class="content">
     <div class="card">
@@ -12,7 +13,6 @@
                 Kelas: {!! $kelas !!} <br>
                 Jurusan: {!! $jurusan !!} <br>
                 Asal Daerah: {!! $asal !!} <br>
-
             </div>
         </div>
     </div>
