@@ -13,21 +13,12 @@ class ProfilController extends Controller
         ->with('nim', '2141720119')
         ->with('kelas', 'TI-2G')
         ->with('jurusan', 'D4 Teknik Informatika')
-        ->with('asal', 'Sumenep');
-
-        return view('profile')
-        ->with('nama', 'Desy Ayurianti')
-        ->with('nim', '2141720119')
-        ->with('kelas', 'TI-2G')
-        ->with('jurusan', 'D4 Teknik Informatika')
-        ->with('asal', 'Sumenep');
-
-        return view('profile')
-        ->with('nama', 'Desy Ayurianti')
-        ->with('nim', '2141720119')
-        ->with('kelas', 'TI-2G')
-        ->with('jurusan', 'D4 Teknik Informatika')
-        ->with('asal', 'Sumenep');
-
+        ->with('asal', 'Sumenep')
+        
+        ->with('nama1', 'Maria Fadilla')
+        ->with('nim1', '2141720063')
+        ->with('kelas1', 'TI-2G')
+        ->with('jurusan1', 'D4 Teknik Informatika')
+        ->with('asal1', 'Kediri');
     }
 }
