@@ -16,10 +16,10 @@ class ProfilController extends Controller
         ->with('asal', 'Sumenep');
 
         return view('profile')
-        ->with('nama', 'Maria Fadilla')
-        ->with('nim', '2141720063')
-        ->with('kelas', 'TI-2G')
-        ->with('jurusan', 'D4 Teknik Informatika')
-        ->with('asal', 'Kediri');
+        ->with('nama2', 'Maria Fadilla')
+        ->with('nim2', '2141720063')
+        ->with('kelas2', 'TI-2G')
+        ->with('jurusan2', 'D4 Teknik Informatika')
+        ->with('asal2', 'Kediri');
     }
 }
