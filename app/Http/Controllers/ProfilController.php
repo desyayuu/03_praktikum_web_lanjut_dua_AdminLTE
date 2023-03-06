@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class ProfilController extends Controller
 {
-    //
+    //profil (desy, maria)
     public function index(){
         return view('profile')
         ->with('nama', 'Desy Ayurianti')
