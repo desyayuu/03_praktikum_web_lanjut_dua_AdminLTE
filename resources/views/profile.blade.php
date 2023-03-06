@@ -21,7 +21,6 @@
                 Kelas: {!! $kelas2 !!} <br>
                 Jurusan: {!! $jurusan2 !!} <br>
                 Asal Daerah: {!! $asal2 !!} <br>
-
             </div>
         </div>
     </div>
